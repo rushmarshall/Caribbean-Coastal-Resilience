@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "caribbean-coastal-resilience"
+version = "0.1.0"
+description = "Compound flood risk assessment for Caribbean Small Island Developing States"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+authors = [{name = "Sebastian R.O. Marshall", email = "xec3cr@virginia.edu"}]
+dependencies = ["numpy>=1.24", "pyyaml>=6.0"]
+
+[project.optional-dependencies]
+full = ["geopandas>=0.13", "folium>=0.14", "matplotlib>=3.7", "scipy>=1.11"]
+dev = ["pytest>=7.0", "pytest-cov", "ruff"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
