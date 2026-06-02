@@ -1,6 +1,6 @@
 # 🌀 Atlantic Hurricane Season Tracker
 
-*Last updated: 2026-06-01 14:24 UTC*
+*Last updated: 2026-06-02 13:42 UTC*
 
 
 ---
