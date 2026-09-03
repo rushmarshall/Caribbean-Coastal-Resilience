@@ -1,40 +1,14 @@
 # 🌀 Atlantic Hurricane Season Tracker
 
-*Last updated: 2026-09-02 12:39 UTC*
+*Last updated: 2026-09-03 12:39 UTC*
 
 
 ---
 
 ## Active Tropical Systems
 
-### Summary for Tropical Depression Edouard (AT5/AL052026)
+*No active tropical cyclones in the Atlantic basin.*
 
-- **Max sustained winds:** see advisory mph
-- **Movement:** ...GUSTY WINDS AND HEAVY RAINFALL FROM TROPICAL DEPRESSION EDOUARD CONTINUES TO GRADUALLY SPREAD ACROSS SOUTHEAST TEXAS.
-
-### Tropical Depression Edouard Public Advisory Number 8
-
-- **Max sustained winds:** see advisory mph
-- **Movement:** The NHC has issued its final advisory on this system. Public Advisories from the <a href="http://www.wpc.ncep.noaa.gov">
-
-### Tropical Depression Edouard Forecast Advisory Number 8
-
-- **Max sustained winds:** see advisory mph
-- **Movement:** Issued at 0900 UTC WED SEP 02 2026
-
-### Tropical Depression Edouard Forecast Discussion Number 8
-
-- **Max sustained winds:** see advisory mph
-- **Movement:** Issued at 400 AM CDT Wed Sep 02 2026
-
-### Tropical Depression Edouard Graphics
-
-- **Max sustained winds:** see advisory mph
-
-### Tropical Depression Edouard Information by ATCF XML Prototype
-
-- **Max sustained winds:** see advisory mph
-- **Movement:** Issued at Wed, 02 Sep 2026 08:39:26 GMT. This is only a prototype and the file format may change without notice.
 
 ---
 
