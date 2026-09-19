@@ -53,7 +53,7 @@ pip install caribbean-coastal-resilience
 Or from source:
 
 ```bash
-git clone https://github.com/sromarshall/Caribbean-Coastal-Resilience.git
+git clone https://github.com/rushmarshall/Caribbean-Coastal-Resilience.git
 cd Caribbean-Coastal-Resilience
 pip install -e ".[dev]"
 ```
@@ -175,7 +175,7 @@ Hazard Identification → Exposure Analysis → Vulnerability Assessment → Ris
 Contributions welcome, particularly from Caribbean researchers and practitioners. Please open an issue to discuss proposed changes.
 
 ```bash
-git clone https://github.com/sromarshall/Caribbean-Coastal-Resilience.git
+git clone https://github.com/rushmarshall/Caribbean-Coastal-Resilience.git
 cd Caribbean-Coastal-Resilience
 pip install -e ".[dev]"
 pytest tests/ -v
