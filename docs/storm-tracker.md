@@ -1,6 +1,6 @@
 # 🌀 Atlantic Hurricane Season Tracker
 
-*Last updated: 2026-11-03 12:27 UTC*
+*Last updated: 2026-11-04 12:27 UTC*
 
 
 ---
@@ -24,7 +24,7 @@
 
 ## Sea Surface Temperature — Main Development Region
 
-**Current SST anomaly (MDR, 10°N–20°N / 20°W–60°W):** +1.14 °C
+**Current SST anomaly (MDR, 10°N–20°N / 20°W–60°W):** +1.34 °C
 
 
 ---
